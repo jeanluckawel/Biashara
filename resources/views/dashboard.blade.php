@@ -12,6 +12,7 @@
     <!--end::Accessibility Meta Tags-->
     <!--begin::Primary Meta Tags-->
     <meta name="title" content="Biashara shop" />
+
     <meta name="author" content="JL kawel" />
     <meta
         name="description"
